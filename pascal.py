@@ -172,3 +172,4 @@ enter the number: '''
 #-----------starter-----------#
 triangle = PascalTriangle()
 triangle.main()
+input('\npress enter...')
